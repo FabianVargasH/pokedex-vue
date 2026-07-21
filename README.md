@@ -72,7 +72,7 @@ practica-2-pokedex-vue/
 
 ## 📸 Vista previa de la página web
 
-![alt text](image.png)
+![alt text](imagePreview.png)
 
 
 
